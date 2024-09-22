@@ -1,0 +1,8 @@
+Model Information:
+* title:	Cervelo S5 roadbike frameset
+* source:	https://sketchfab.com/3d-models/cervelo-s5-roadbike-frameset-84dfd8de2dab4be0985203be9ddc72e2
+* author:	Dav1d- (https://sketchfab.com/Dav1d-)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
