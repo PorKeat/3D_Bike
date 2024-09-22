@@ -39,12 +39,12 @@ body {
 }
 
 .contentOne h1 {
-  font-size: 1.7rem;
+  font-size: 3rem;
   margin: 0 0 10px 0;
   font-weight: bold;
 }
 .des p{
-    font-size: 10px;
+    font-size: 20px;
 }
 .contentOne .des {
   opacity: 0.6;
